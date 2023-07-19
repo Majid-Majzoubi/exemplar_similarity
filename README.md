@@ -13,7 +13,7 @@ The repository is structured as follows:
 ## Usage
 To reproduce the results in the paper, run the scripts in the following order:
 1. `download_parse_10ks.ipynb`: This script downloads the "Item 1" section of 10-K filings.
-2. `10k_mpnet_embeddings.ipynb`: This script generates embeddings for the 10-K filings using a pre-trained model.
+2. `10k_mpnet_embeddings.ipynb`: This script generates embeddings for the 10-K filings using a pre-trained model. (*** Note: this part of the code requires a powerful GPU. It took us about a week to process using an H100 GPU on Google Cloud services. With a regular CPU it can take months to process).
 3. `10k_embeddings_todf.ipynb`: This script transforms the embeddings into a dataframe.
 4. `10k_vars_notebook.ipynb`: This script constructs variables such as exemplar similarity, category coherence, and distinctiveness.
 5. `accounting_vars_notebook.ipynb`: This script uses Compustat data to create control variables and combines all the variables together.
