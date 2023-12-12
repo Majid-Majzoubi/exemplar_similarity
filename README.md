@@ -8,8 +8,8 @@ We investigate how a firm’s positioning relative to category exemplars shapes 
 
 ## Repository Structure
 The repository is structured as follows:
-- `source/`: Contains all the source code files.
-- `source/Supplementary_analysis/`: This folder contains source codes for additional analysis that are included as supplementary analysis in the paper.
+- `source/`: Contains all the main source code files.
+- `source/Supplementary_analysis/`: This folder contains source codes for analyses that are included as robustness checks and supplementary analysis in the paper.
 - `data/`: Placeholder for the data used in the study. Due to copyright concerns, the actual data is not provided in the repository. All the data needed for this analysis could be downloaded using WRDS and SEC-API subscriptions.
 
 ## Usage
