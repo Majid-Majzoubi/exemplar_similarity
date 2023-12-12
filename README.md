@@ -1,7 +1,6 @@
-# Unraveling the Complexity of Exemplar Similarity in Firm Evaluation: A Two-Stage Approach
+# The Double-Edged Sword of Exemplar Similarity
 
-This repository contains the code for the paper "The Double-Edged Sword of Exemplar Similarity."
-". 
+This repository contains the code for the paper "The Double-Edged Sword of Exemplar Similarity"
 
 ## Abstract
 We investigate how a firm’s positioning relative to category exemplars shapes security analysts’ evaluations. Employing a two-stage model of evaluation (initial screening and subsequent assessment), we posit that exemplar similarity enhances a firm’s recognizability and legitimacy, thereby increasing the likelihood of it passing the initial screening stage and attracting analyst coverage. However, exemplar similarity may also prompt unfavorable comparisons with exemplar firms, leading to lower analyst recommendations in the assessment stage. We further argue that category coherence, distinctiveness, and exemplar typicality influence the impact of exemplar similarity on firm evaluation. Leveraging Natural Language Processing (NLP) techniques to analyze a sample of 7,603 US public firms from 1997 to 2022, we find robust support for our predictions. By highlighting the nuanced implications of strategic positioning vis-à-vis category exemplars in shaping audience evaluations, our findings contribute to management research on optimal distinctiveness, categories, and security analysts.
